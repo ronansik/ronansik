@@ -1,9 +1,9 @@
 ### About Me ###
 
-Hey there! I`m Ronan Siqueira, 24 years old, currently living in Brazil
-Currently, i am a graduate student in Systems Development Analysis at Estácio de Sá in Resende, Rio de Janeiro.
+Hey there! I`m Ronan Siqueira, 24 years old, currently living in Brazil,
+currently, i am a graduate student in Systems Development Analysis at Estácio de Sá in Resende, Rio de Janeiro.
 
-A software developer who is also passionate about UI design, Apple latest news and technologies.
+A software developer who is also passionate about UI design and Apple latest news and technologies.
 
 ### Technologies ###
 
